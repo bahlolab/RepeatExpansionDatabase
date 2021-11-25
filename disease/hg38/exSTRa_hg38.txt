@@ -1,0 +1,50 @@
+### exSTRa hg38 database ###
+locus	long_name	OMIM	inheritance	gene	location	gene_region	strand	motif	chrom	hg38_start	hg38_end	norm_low	norm_up	aff_low	aff_up	perIndel	perMatch
+ALS_NIPA1	Amyotrophic lateral sclerosis	NA	AD	NIPA1	15q11.2	coding	+	GCG	chr15	22786677	22786701		8	9			
+CANVAS_RFC1	Cerebellar ataxia, neuropathy, and vestibular areflexia syndrome	614575	AR	RFC1	4p14	intron	-	CCCTT	chr4	39348424	39348479		0	400			
+CJD_PRNP	Creutzfeldt-Jakob disease	123400	AD	PRNP	20p13	coding	+	GGTGGTGGCTGGGGGCAGCCTCAT	chr20	4699379	4699475		5	6			
+DBQD2_XYLT1	Desbuquois dysplasia 2	615777	AR	XYLT1	16p12.3	promotor	-	GGC	chr16	17470907	17470922		20	120			
+DM1_DMPK	Myotonic dystrophy 1	160900	AD	DMPK	19q13.32	3'UTR	-	CTG	chr19	45770204	45770264		37	50			
+DM2_CNBP	Myotonic dystrophy 2	602668	AD	CNBP	3q21.3	intron	-	CCTG	chr3	129172576	129172656		30	50			
+DMD_DMD	Duchenne muscular dystrophy	310200	XLR	DMD	Xp21.2-p21.1	intron	-	GAA	chrX	31284557	31284605		32	39			
+DRPLA_ATN1	Dentatorubral-pallidoluysian atrophy	125370	AD	ATN1	12p13.31	coding	+	CAG	chr12	6936716	6936773		35	48			
+FAME1_SAMD12	Familial adult myoclonic epilepsy 1	601068	AD	SAMD12	8q24.11-q24.12	intron	-	TTTCA	chr8	118366815	118366880		0	135			
+FAME2_STARD7	Familial adult myoclonic epilepsy 2	607876	AD	STARD7	2q11.2	intron	-	ATTTC	chr2	96197066	96197121		0	661			
+FAME3_MARCHF6	Familial adult myoclonic epilepsy 3	613608	AD	MARCHF6	5p15.2	intron	+	TTTCA	chr5	10356347	10356407		0	660			
+FAME4_YEATS2	Familial adult myoclonic epilepsy 4	615127	AD	YEATS2	3q27.1	intron	+	TTTCA	chr3	183712187	183712222		0	192			
+FAME6_TNRC6A	Familial adult myoclonic epilepsy 6	618074	AD	TNRC6A	16p12.1	intron	+	TTTCA	chr16	24613439	24613529		0				
+FAME7_RAPGEF2	Familial adult myoclonic epilepsy 7	618075	AD	RAPGEF2	4q32.1	intron	+	TTTCA	chr4	159342526	159342616		0				
+FECD3_TCF4	Fuchs endothelial corneal dystrophy 3	613267	AD	TCF4	18q21.2	intron	-	CTG	chr18	55586155	55586227		31	50			
+FRA11B_CBL	FRA11B fragile site	NA	AD	CBL	11q23.3	5'UTR	+	GGC	chr11	119206290	119206323		79	101			
+FRA12A_DIP2B	FRA12A type of mental retardation	136630	AD	DIP2B	12q13.12	5'UTR	+	GGC	chr12	50505001	50505022		23	280			
+FRA2A_AFF3	FRA2A fragile site	NA	AD	AFF3	2q11.2	intron	-	GGC	chr2	100104798	100104822		20	300			
+FRA7A_ZNF713	FRA7A fragile site	NA	AD	ZNF713	7p11.2	5'UTR	+	GGC	chr7	55887602	55887638		22	450			
+FRAXE_AFF2	X-linked intellectual developmental disorder 109	309548	XLR	AFF2	Xq28	5'UTR	+	GCC	chrX	148500637	148500682		39	200			
+FRDA_FXN	Friedreich ataxia	229300	AR	FXN	9q21.11	intron	+	GAA	chr9	69037286	69037304		34	66			
+FTDALS1_C9ORF72	Frontotemporal dementia and/or amyotrophic lateral sclerosis	105550	AD	C9orf72	9p21.2	intron	-	GGGGCC	chr9	27573528	27573546		25	30			
+FXS_FMR1	Fragile X syndrome	300624	XLD	FMR1	Xq27.3	5'UTR	+	CGG	chrX	147912050	147912110		50	200			
+GDPAG_GLS	Global developmental delay, progressive ataxia, and elevated glutamine	618412	AR	GLS	2q32.2	5'UTR	+	GCA	chr2	190880872	190880920		16	680			
+HD_HTT	Huntington disease	143100	AD	HTT	4p16.3	coding	+	CAG	chr4	3074876	3074933		35	36			
+HDL2_JPH3	Huntington disease-like 2	606438	AD	JPH3	16q24.2	exon	+	CTG	chr16	87604287	87604329		28	41			
+HSAN8_PRDM12	Hereditary sensory and autonomic neuropathy 8	616488	AR	PRDM12	9q34.12	coding	+	GCC	chr9	130681606	130681639		14	18			
+NIID_NOTCH2NLC	Neuronal intranuclear inclusion disease	603472	AD	NOTCH2NLC	1q21.2	5'UTR	+	GGC	chr1	149390802	149390841		60	61			
+OPDM1_LRP12	Oculopharyngodistal myopathy 1	164310	AD	LRP12	8q22.3	5'UTR	-	CGG	chr8	104588972	104588999		45	90			
+OPDM2_GIPC1	Oculopharyngodistal myopathy 2	618940	AD	GIPC1	19p13.12	5'UTR	-	CGG	chr19	14496041	14496074		32	97			
+OPDM4_RILPL1	Oculopharyngodistal myopathy 4	NA	AD	RILPL1	12q24.31	5'UTR	-	GCC	chr12	123533720	123533750		50	90			
+OPMD_PABPN1	Oculopharyngeal muscular dystrophy	164300	AD	PABPN1	14q11.2	coding	+	GCG	chr14	23321472	23321490		10	12			
+OPML1_NUTM2B-AS1	Oculopharyngeal myopathy with leukoencephalopathy 1	618637	AD	NUTM2B-AS1	10q22.3	utRNA	-	GCC	chr10	79826383	79826404		16	40			
+PSACH_COMP	Pseudoachondroplasia	177170	AD	COMP	19p13.11	coding	-	GAC	chr19	18786034	18786049		5	6			
+SBMA_AR	Spinal and bulbar muscular atrophy (Kennedy disease)	313200	XLR	AR	Xq12	coding	+	CAG	chrX	67545316	67545385		36	38			
+SCA1_ATXN1	Spinocerebellar ataxia 1	164400	AD	ATXN1	6p22.3	coding	-	CAG	chr6	16327635	16327722		38	39			
+SCA10_ATXN10	Spinocerebellar ataxia 10	603516	AD	ATXN10	22q13.31	intron	+	ATTCT	chr22	45795354	45795424		32	280			
+SCA12_PPP2R2B	Spinocerebellar ataxia 12	604326	AD	PPP2R2B	5q32	promotor	-	CAG	chr5	146878728	146878758		32	43			
+SCA17_TBP	Spinocerebellar ataxia 17	607136	AD	TBP	6q27	coding	+	CAG	chr6	170561907	170562021		40	43			
+SCA2_ATXN2	Spinocerebellar ataxia 2	183090	AD	ATXN2	12q24.12	coding	-	CAG	chr12	111598950	111599019		31	32			
+SCA3_ATXN3	Machado-Joseph disease (spinocerebellar ataxia 3)	109150	AD	ATXN3	14q32.12	coding	-	CAG	chr14	92071010	92071034		44	55			
+SCA31_BEAN1	Spinocerebellar ataxia 31	117210	AD	BEAN1	16q21	intron	+	TGGAA	chr16	66490398	66490453		0	110			
+SCA36_NOP56	Spinocerebellar ataxia 36	614153	AD	NOP56	20p13	intron	+	GGCCTG	chr20	2652733	2652757		14	650			
+SCA37_DAB1	Spinocerebellar ataxia 37	615945	AD	DAB1	1p32.2	intron	-	ATTTC	chr1	57367043	57367118		0	31			
+SCA6_CACNA1A	Spinocerebellar ataxia 6	183086	AD	CACNA1A	19p13.13	coding	-	CAG	chr19	13207858	13207897		18	20			
+SCA7_ATXN7	Spinocerebellar ataxia 7	164500	AD	ATXN7	3p14.1	coding	+	CAG	chr3	63912685	63912715		33	37			
+SCA8_ATXN8OS	Spinocerebellar ataxia 8	608768	AD	ATXN8OS	13q21.33	utRNA	+	CTG	chr13	70139383	70139428		50	74			
+ULD_CSTB	Myoclonic epilepsy of Unverricht and Lundborg	254800	AR	CSTB	21q22.3	promotor	-	CCCCGCCCCGCG	chr21	43776443	43776479		3	30			
